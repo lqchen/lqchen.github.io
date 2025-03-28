@@ -11,7 +11,11 @@ redirect_from:
 <!-- author_profile:true 启用作者简介栏 -->
 <!-- redirect_from会将以下URL重定向到当前页面 -->
 
+<<<<<<< HEAD
 I am a Full Professor (and PhD Supervisor) in the College of Computer Science and Technology at the National University of Defense Technology (NUDT), Changsha, China.
+=======
+I am a Full Professor in the College of Computer Science and Technology at the National University of Defense Technology (NUDT), Changsha, China.
+>>>>>>> 2643d36f8267ee1d9ccbe7e78e08fa393eb19e4b
 
 Research Interests:
 ======
@@ -33,11 +37,14 @@ Recent Papers:
   **Fine-Grained Global Search for Inputs Triggering Floating-Point Exceptions in GPU Programs**. 
   In Proceedings of the 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025), June 3-7, 2025, Milan, Italy.
    <!--[[PDF]](../files/VMCAI25_InvGen.pdf) [[Artifact]](https://)-->   
+<<<<<<< HEAD
 - **[TOSEM 2025]**
   Shangwen Wang, Bo Lin, Liqian Chen, and Xiaoguang Mao. 
   **Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision**.
   ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 34, Issue 3, Article No. 58, Pages 1-26. 
   [[PDF]](../files/TOSEM25_CodeRev.pdf)   
+=======
+>>>>>>> 2643d36f8267ee1d9ccbe7e78e08fa393eb19e4b
 - **[VMCAI 2025]**
   Jingyu Ke, Hongfei Fu, Hongming Liu, Zhouyue Sun, Liqian Chen and Guoqiang Li. 
   **Affine Disjunctive Invariant Generation with Farkas' Lemma**.
@@ -58,7 +65,15 @@ Recent Papers:
 	**Synthesizing Boxes Preconditions for Deep Neural Networks**. 
   In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), September 16–20, 2024, Vienna, Austria. ACM, New York, NY, USA, 12 pages.  
 	[[PDF]](../files/ISSTA24_preBox.pdf)  
+<<<<<<< HEAD
 
+=======
+- **[TOSEM 2024]**
+  Shangwen Wang, Bo Lin, Liqian Chen, and Xiaoguang Mao. 
+  **Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision**.
+  ACM Transactions on Software Engineering and Methodology (TOSEM). Online (September 2024), 25 pages.
+  [[PDF]](../files/TOSEM24_CodeRev.pdf)
+>>>>>>> 2643d36f8267ee1d9ccbe7e78e08fa393eb19e4b
 - [...See all publications...](publications)
 
 <!--
@@ -71,6 +86,7 @@ Recent Activities
 Recent Services
 ======
 **Conferences**
+<<<<<<< HEAD
 - [ASE 2025](https://conf.researchr.org/home/ase-2025): Program Committee Member.
 - [SAS 2025](https://2025.splashcon.org/home/sas-2025): Program Committee Member.
 - [SETTA 2025](https://www.setta2025.uk/): Program Committee Member.
@@ -78,9 +94,19 @@ Recent Services
 **Journals**
   - [Automated Software Engineering Journal](https://link.springer.com/journal/10515/updates/27060282) : Guest Editor (Collection "Effective ProgramAnalysis and Testing for ModernSoftware Development")
   - [Journal of Systems Architecture](https://www.sciencedirect.com/special-issue/291269/dependable-software-engineering-theories-tools-and-applications) : Executive Guest Editor (Special Issue "Dependable Software Engineering: Theories, Tools and Applications")
+=======
+- [SAS 2025](https://2025.splashcon.org/home/sas-2025): Program Committee Member.
+- [SETTA 2024](https://setta2024.cs.cityu.edu.hk/): Program Committee Co-Chair.
+
+**Journals**
+  - [Automated Software Engineering Journal](https://link.springer.com/journal/10515/updates/27060282) : Guest Editor (Collection "Effective ProgramAnalysis and Testing for ModernSoftware Development")
+>>>>>>> 2643d36f8267ee1d9ccbe7e78e08fa393eb19e4b
 
 Software
 ======
 - **[Apron](https://github.com/antoinemine/apron)**: a library for Numerical Abstract Domains.
 - **[AutoRNP](https://github.com/yixin-09/AutoRNP)**: a dynamic analysis tool for automatically detecting and repairing high floating-point errors in numerical programs.
+<<<<<<< HEAD
 - **[F-IKOS](https://github.com/zoush99/f-ikos)**: a static analyzer for Fortran programs.
+=======
+>>>>>>> 2643d36f8267ee1d9ccbe7e78e08fa393eb19e4b
